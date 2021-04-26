@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Hai iam Thashib
+_Iam from Nilambur
+
+**Iam pursuing Btech in CSE
+__At KMCT College of Engineering
+
+_**Iam interested in Programming
